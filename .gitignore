@@ -1,0 +1,13 @@
+# Mengabaikan folder node_modules
+node_modules/
+
+# Mengabaikan log file
+*.log
+
+# Mengabaikan file konfigurasi sistem
+.DS_Store
+
+# Mengabaikan file environment
+.env
+.wwebjs_auth/
+.wwebjs_cache/
